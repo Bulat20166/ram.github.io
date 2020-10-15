@@ -1,0 +1,36 @@
+body {
+  background-color: #24282f;
+}
+
+#app {
+  color: white;
+  font-size: 18px;
+}
+
+.characters-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.character-block {
+  display: flex;
+  width: 22%;
+  margin: 10px;
+  background-color: #3c3e44;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  color: white;
+}
+.character-block__image {
+  width: 160px;
+  height: auto;
+}
+.character-block__info {
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=main.css.map */
