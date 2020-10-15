@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/RAM.github.io/'
+    publicPath: '/RAM/'
   }
